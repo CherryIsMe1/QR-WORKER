@@ -1,0 +1,8 @@
+import io
+import sys
+import ctypes
+import tkinter as tk
+from tkinter import ttk, filedialog, messagebox
+from PIL import Image, ImageTk, ImageGrab
+from pyzbar.pyzbar import decode
+import qrcode
