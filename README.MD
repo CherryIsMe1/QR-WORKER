@@ -1,0 +1,1 @@
+Simple qr reader and creator. Made by Cherry @CherryIsMe1 on github. Made using python with the help of an ai agent.
